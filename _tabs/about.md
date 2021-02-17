@@ -10,5 +10,12 @@ order: 4
 # MIT License
 ---
 
+공부한 내용을 정리하는 블로그. 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+<!---
+## Curriculum Vitae 
+ [CV Link](https://docs.google.com/document/d/1dgMsUYAAtoWhWEQMYDpXURyerUhv2e0iyIAlCgcvdnU/edit?usp=sharing) 
+ -->
+
+## Books for Study
+[List](https://www.notion.so/Books-2a4ee1af56974047a111ba7aba54b661)
