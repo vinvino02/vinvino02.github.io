@@ -16,6 +16,8 @@ order: 4
 
 I am a Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST)  advised by Professor [Junmo Kim](https://siit.kaist.ac.kr/). 
 
+[[Google Scholar]](https://scholar.google.com/citations?user=INQVkzcAAAAJ&hl=ko) 
+
 contact: doken111 [at] gmail.com
 
 
