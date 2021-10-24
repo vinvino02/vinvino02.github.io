@@ -92,6 +92,14 @@ B.S. in Computer Science and Engineering
 <br>**Doyeon Kim**, Jeongwoo Ju, and Junmo Kim
 <br>IPIU 2017
 
+## Honors and Awards
+---
+2018  Samsung Human Tech Award, Silver Prize ($7,000)
+<br>2016  IT Global Leadership Program Scholarship
+<br>2015  National Science Scholarship
+<br>2014  Honors Scholarship, College of Informatics Alumni Scholarship
+
+
 <!---
 ## Books for Study
 [List](https://www.notion.so/Books-2a4ee1af56974047a111ba7aba54b661)
