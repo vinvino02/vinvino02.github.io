@@ -14,9 +14,10 @@ order: 4
 
 # Doyeon Kim 
 
-I am a Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST)  advised by Professor [Junmo Kim](https://siit.kaist.ac.kr/). 
+I am a Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST)  advised by Professor [Junmo Kim](https://siit.kaist.ac.kr/){:target="_blank"}. 
 
-[[Google Scholar]](https://scholar.google.com/citations?user=INQVkzcAAAAJ&hl=ko) 
+[[Google Scholar]](https://scholar.google.com/citations?user=INQVkzcAAAAJ&hl=ko){:target="_blank"}
+[[github]](https://github.com/vinvino02/){:target="_blank"}
 
 contact: doken111 [at] gmail.com
 
@@ -44,7 +45,13 @@ B.S. in Computer Science and Engineering
 ## Publications
 ---
 #### **International**
+
 <br>
+
+**Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth**
+<br>**Doyeon Kim**, Woonghyun Ga, Pyungwhan Ahn, Donggyu Joo, Sehwan Chun, and Junmo Kim
+<br>Arxiv preprint [[paper]](http://arxiv.org/abs/2201.07436 ){:target="_blank"} [[code]](https://github.com/vinvino02/GLPDepth)
+
 **TricubeNet: 2D Kernel-Based Object Representation for Weakly-Occluded Oriented Object Detection**
 <br>Beomyoung Kim, Sihaeng Lee, Janghyeon Lee, **Doyeon Kim**, and Junmo Kim
 <br>WACV 2022 [[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Kim_TricubeNet_2D_Kernel-Based_Object_Representation_for_Weakly-Occluded_Oriented_Object_Detection_WACV_2022_paper.pdf){:target="_blank"}
