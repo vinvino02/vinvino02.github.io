@@ -15,6 +15,8 @@ order: 4
 # Doyeon Kim 
 
 I am a Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST)  advised by Professor [Junmo Kim](https://siit.kaist.ac.kr/){:target="_blank"}. 
+I am especially interested how to bridge the gap between technology and art with generative models. 
+My previous research has been focused on generative models and monocular depth estimation. 
 
 [[Google Scholar]](https://scholar.google.com/citations?user=INQVkzcAAAAJ&hl=ko){:target="_blank"}
 [[github]](https://github.com/vinvino02/){:target="_blank"}
@@ -48,6 +50,11 @@ B.S. in Computer Science and Engineering
 
 <br>
 
+**Linear Combination Approximation of Feature for Channel Pruning**
+<br>Donggyu Joo, **Doyeon Kim**, Eojindl Yi, Junmo Kim
+<br>CVPR Workshop 2022 (Efficient Deep Learning for Computer Vision)
+
+
 **Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth**
 <br>**Doyeon Kim**, Woonghyun Ga, Pyungwhan Ahn, Donggyu Joo, Sehwan Chun, and Junmo Kim
 <br>Arxiv preprint [[paper]](http://arxiv.org/abs/2201.07436 ){:target="_blank"} [[code]](https://github.com/vinvino02/GLPDepth)
@@ -58,7 +65,7 @@ B.S. in Computer Science and Engineering
 
 **Progressive Seed Generation Auto-encoder for Unsupervised Point Cloud Learning**
 <br>Juyoung Yang, Pyungwhan Ahn, **Doyeon Kim**, Haeil Lee, and Junmo Kim
-<br>**ICCV 2021** [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Progressive_Seed_Generation_Auto-Encoder_for_Unsupervised_Point_Cloud_Learning_ICCV_2021_paper.pdf){:target="_blank"}
+<br>ICCV 2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Progressive_Seed_Generation_Auto-Encoder_for_Unsupervised_Point_Cloud_Learning_ICCV_2021_paper.pdf){:target="_blank"}
 
 **Delivering Meaningful Representation for Monocular Depth Estimation**
 <br>**Doyeon Kim**, Donggyu Joo, and Junmo Kim
@@ -82,7 +89,7 @@ B.S. in Computer Science and Engineering
 
 **Generating a Fusion Image: One's Identity and Another's Shape**
 <br>Donggyu Joo\*, **Doyeon Kim**\*, and Junmo Kim (* indicates equal contribution)
-<br>**CVPR 2018** [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Generating_a_Fusion_CVPR_2018_paper.pdf){:target="_blank"}
+<br>CVPR 2018 [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Generating_a_Fusion_CVPR_2018_paper.pdf){:target="_blank"}
 
 **Improved InfoGAN: Generating High Quality Images with Learning Disentangled Representation**
 <br>**Doyeon Kim**, Haechang Jung, Jaeyoung Lee, and Junmo Kim 
