@@ -15,7 +15,7 @@ order: 4
 # Doyeon Kim 
 
 I am a Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST)  advised by Professor [Junmo Kim](https://siit.kaist.ac.kr/){:target="_blank"}. 
-I am especially interested how to bridge the gap between technology and art with generative models. 
+I am especially interested in how to bridge the gap between technology and art with generative models. 
 My previous research has been focused on generative models and monocular depth estimation. 
 
 [[Google Scholar]](https://scholar.google.com/citations?user=INQVkzcAAAAJ&hl=ko){:target="_blank"}
