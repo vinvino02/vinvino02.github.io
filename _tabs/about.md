@@ -20,6 +20,7 @@ My previous research has been focused on generative models and monocular depth e
 
 [[Google Scholar]](https://scholar.google.com/citations?user=INQVkzcAAAAJ&hl=ko){:target="_blank"}
 [[github]](https://github.com/vinvino02/){:target="_blank"}
+[[CV]](https://docs.google.com/document/d/1XW6-KJ6ojfqhx3E2hVV_K2wAsTSwuq6UsngrvaRC9Qw/edit?usp=sharing){:target="_blank"}
 
 contact: doken111 [at] gmail.com
 
@@ -52,7 +53,7 @@ B.S. in Computer Science and Engineering
 
 **Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN**
 <br>Dongyeon Lee, Jae Young Lee, **Doyeon Kim**, Jaehyun Choi, Junmo Kim
-<br>CVPR Workshop 2022 (AI for Content Creation)
+<br>CVPR Workshop 2022 (AI for Content Creation) [[paper]](https://arxiv.org/pdf/2204.14079.pdf){:target="_blank"}
 
 
 **Linear Combination Approximation of Feature for Channel Pruning**
