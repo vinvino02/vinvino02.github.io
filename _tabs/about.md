@@ -53,7 +53,7 @@ B.S. in Computer Science and Engineering
 
 **Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN**
 <br>Dongyeon Lee, Jae Young Lee, **Doyeon Kim**, Jaehyun Choi, Junmo Kim
-<br>CVPR Workshop 2022 (AI for Content Creation) [[paper]](https://arxiv.org/pdf/2204.14079.pdf){:target="_blank"}
+<br>CVPR Workshop 2022 (AI for Content Creation, **Best Paper Award**) [[paper]](https://arxiv.org/pdf/2204.14079.pdf){:target="_blank"}
 
 
 **Linear Combination Approximation of Feature for Channel Pruning**
