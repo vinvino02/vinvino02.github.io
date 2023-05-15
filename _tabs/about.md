@@ -14,9 +14,7 @@ order: 4
 
 # Doyeon Kim 
 
-I am a Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST)  advised by Professor [Junmo Kim](https://siit.kaist.ac.kr/){:target="_blank"}. 
-I am especially interested in how to bridge the gap between technology and art with generative models. 
-My previous research has been focused on generative models and monocular depth estimation. 
+I am an AI researcher at Hyundai Motors Institute of Advanced Technology Development (IATD).  Before this, I received my Ph.D.  degree from Korea Advanced Institute of Science and Technology (KAIST)  advised by Professor [Junmo Kim](https://siit.kaist.ac.kr/){:target="_blank"}. 
 
 [[Google Scholar]](https://scholar.google.com/citations?user=INQVkzcAAAAJ&hl=ko){:target="_blank"}
 [[github]](https://github.com/vinvino02/){:target="_blank"}
@@ -28,13 +26,13 @@ contact: doken111 [at] gmail.com
 
 ## Research Interest
 ---
-Deep Learning, Generative Models, Monocular Depth Estimation
+Deep Learning, Autonomous Driving, Generative Models
 
 ## Education
 ---
 #### **KAIST, Daejeon, Korea**
 Ph.D. student in Electrical Engineering 
-<br>2018 - Present
+<br>2018 - 2023
 
 #### **KAIST, Daejeon, Korea**
 M.S. in Robotics Program
@@ -50,6 +48,14 @@ B.S. in Computer Science and Engineering
 #### **International**
 
 <br>
+
+**Context-Preserving Two-Stage Video Domain Translation for Portrait Stylization**
+<br>Doyeon Kim, Eunji Ko, Hyunsu Kim, Junho Kim, Yunji Kim, Dongchan Min, Junmo Kim, Sung Ju Hwang
+<br>CVPR Workshop 2023 (AI for Content Creation)
+
+**Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN**
+<br>Dongyeon Lee, Jae Young Lee, **Doyeon Kim**, Jaehyun Choi, Junmo Kim
+<br>CVPR 2023 (extended version of CVPRW 2022)
 
 **Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN**
 <br>Dongyeon Lee, Jae Young Lee, **Doyeon Kim**, Jaehyun Choi, Junmo Kim
