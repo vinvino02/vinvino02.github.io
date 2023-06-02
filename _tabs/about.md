@@ -31,7 +31,7 @@ Deep Learning, Autonomous Driving, Generative Models
 ## Education
 ---
 #### **KAIST, Daejeon, Korea**
-Ph.D. student in Electrical Engineering 
+Ph.D. in Electrical Engineering 
 <br>2018 - 2023
 
 #### **KAIST, Daejeon, Korea**
