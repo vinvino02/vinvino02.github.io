@@ -54,6 +54,10 @@ B.S. in Computer Science and Engineering
 
 <br>
 
+**Training Cartoonization Network without Cartoon**
+Doyeon Kim, Dongyeun Lee, Donggyu Joo, Junmo Kim
+ICIP 2023
+
 **Context-Preserving Two-Stage Video Domain Translation for Portrait Stylization**
 <br>**Doyeon Kim**, Eunji Ko, Hyunsu Kim, Junho Kim, Yunji Kim, Dongchan Min, Junmo Kim, Sung Ju Hwang
 <br>CVPR Workshop 2023 (AI for Content Creation)
