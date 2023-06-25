@@ -30,6 +30,12 @@ Deep Learning, Autonomous Driving, Generative Models
 
 ## Education
 ---
+#### ** Hyundai Motors Institute of Advanced Technology Development (IATD) **
+AI Researcher 
+<br> May 2023 - Current
+
+## Education
+---
 #### **KAIST, Daejeon, Korea**
 Ph.D. in Electrical Engineering 
 <br>2018 - 2023
@@ -41,7 +47,6 @@ M.S. in Robotics Program
 #### **Korea University, Seoul, Korea**
 B.S. in Computer Science and Engineering
 <br>2012 - 2016 
-
 
 ## Publications
 ---
