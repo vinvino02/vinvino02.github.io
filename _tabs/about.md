@@ -30,7 +30,7 @@ Deep Learning, Autonomous Driving, Generative Models
 
 ## Education
 ---
-#### ** Hyundai Motors Institute of Advanced Technology Development (IATD) **
+#### **Hyundai Motors Institute of Advanced Technology Development (IATD)**
 AI Researcher 
 <br> May 2023 - Current
 
