@@ -28,7 +28,7 @@ contact: doken111 [at] gmail.com
 ---
 Deep Learning, Autonomous Driving, Generative Models
 
-## Education
+## Experience
 ---
 #### **Hyundai Motors Institute of Advanced Technology Development (IATD)**
 AI Researcher 
