@@ -60,11 +60,11 @@ B.S. in Computer Science and Engineering
 
 **Context-Preserving Two-Stage Video Domain Translation for Portrait Stylization**
 <br>**Doyeon Kim**, Eunji Ko, Hyunsu Kim, Junho Kim, Yunji Kim, Dongchan Min, Junmo Kim, Sung Ju Hwang
-<br>CVPR Workshop 2023 (AI for Content Creation)
+<br>CVPR Workshop 2023 (AI for Content Creation) [[paper]](https://arxiv.org/abs/2305.19135){:target="_blank"}
 
 **Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN**
 <br>Dongyeon Lee, Jae Young Lee, **Doyeon Kim**, Jaehyun Choi, Junmo Kim
-<br>CVPR 2023 (extended version of CVPRW 2022)
+<br>CVPR 2023 (extended version of CVPRW 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Fix_the_Noise_Disentangling_Source_Feature_for_Controllable_Domain_Translation_CVPR_2023_paper.pdf){:target="_blank"}
 
 **Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN**
 <br>Dongyeon Lee, Jae Young Lee, **Doyeon Kim**, Jaehyun Choi, Junmo Kim
@@ -73,12 +73,12 @@ B.S. in Computer Science and Engineering
 
 **Linear Combination Approximation of Feature for Channel Pruning**
 <br>Donggyu Joo, **Doyeon Kim**, Eojindl Yi, Junmo Kim
-<br>CVPR Workshop 2022 (Efficient Deep Learning for Computer Vision)
+<br>CVPR Workshop 2022 (Efficient Deep Learning for Computer Vision) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/ECV/papers/Joo_Linear_Combination_Approximation_of_Feature_for_Channel_Pruning_CVPRW_2022_paper.pdf){:target="_blank"}
 
 
 **Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth**
 <br>**Doyeon Kim**, Woonghyun Ga, Pyungwhan Ahn, Donggyu Joo, Sehwan Chun, and Junmo Kim
-<br>Arxiv preprint [[paper]](http://arxiv.org/abs/2201.07436 ){:target="_blank"} [[code]](https://github.com/vinvino02/GLPDepth)
+<br>Arxiv preprint [[paper]](http://arxiv.org/abs/2201.07436 ){:target="_blank"} [[code]](https://github.com/vinvino02/GLPDepth){:target="_blank"}
 
 **TricubeNet: 2D Kernel-Based Object Representation for Weakly-Occluded Oriented Object Detection**
 <br>Beomyoung Kim, Sihaeng Lee, Janghyeon Lee, **Doyeon Kim**, and Junmo Kim
