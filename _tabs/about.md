@@ -64,7 +64,7 @@ B.S. in Computer Science and Engineering
 
 **Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN**
 <br>Dongyeon Lee, Jae Young Lee, **Doyeon Kim**, Jaehyun Choi, Junmo Kim
-<br>CVPR 2023 (extended version of CVPRW 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Fix_the_Noise_Disentangling_Source_Feature_for_Controllable_Domain_Translation_CVPR_2023_paper.pdf){:target="_blank"}
+<br>CVPR 2023 (extended version of CVPRW 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Fix_the_Noise_Disentangling_Source_Feature_for_Controllable_Domain_Translation_CVPR_2023_paper.pdf){:target="_blank"} [[code]](https://github.com/LeeDongYeun/FixNoise)
 
 **Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN**
 <br>Dongyeon Lee, Jae Young Lee, **Doyeon Kim**, Jaehyun Choi, Junmo Kim
