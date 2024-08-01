@@ -32,7 +32,7 @@ Deep Learning, Autonomous Driving, Generative Models
 ---
 #### **Hyundai Motors Semiconductor Development Group**
 NPU SW, AI Researcher 
-<br> July 2023 - Current
+<br> July 2024 - Current
 
 
 #### **Hyundai Motors Institute of Advanced Technology Development (IATD)**
