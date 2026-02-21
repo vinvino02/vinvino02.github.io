@@ -18,7 +18,7 @@ I am an AI researcher at Hyundai Motors Institute of Advanced Technology Develop
 
 [[Google Scholar]](https://scholar.google.com/citations?user=INQVkzcAAAAJ&hl=ko){:target="_blank"}
 [[github]](https://github.com/vinvino02/){:target="_blank"}
-[[CV]](https://github.com/vinvino02/vinvino02.github.io/blob/main/assets/CV%20Doyeon%20Kim%20-%20website.pdf){:target="_blank"}
+[[CV]](https://raw.githubusercontent.com/vinvino02/vinvino02.github.io/main/assets/CV%20Doyeon%20Kim%20-%20website.pdf){:target="_blank"}
 
 contact: doken111 [at] gmail.com
 
